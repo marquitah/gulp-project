@@ -25,5 +25,4 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - npm install -g gulp
-            - gulp
+            - npm install gulp
