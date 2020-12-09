@@ -21,7 +21,7 @@ blocks:
         commands:
           - checkout
           - sem-version node 12
-          - cashe restore
+          - cache restore
       jobs:
         - name: 'Job #1'
           commands:
